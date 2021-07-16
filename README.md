@@ -1,4 +1,4 @@
-# serverapi - API Server for E-Teacher 
+# serverapi - E-Teacher API Server
 It serves as an intermediary between the database server and the web application server.
 
 Conducted in Java 15 with wildlfy, receives requests from the web application in JSON and makes the appropriate changes to the database server.
